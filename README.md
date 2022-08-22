@@ -1,6 +1,6 @@
 <h1>Laravel Covid-19 Statistics project</h1> 
 <p>Simple project allows the user to view the statistics of covid-19 around the world and shows information about covid-19 and it is spread around the world<p>
-<img src="https://user-images.githubusercontent.com/70637865/185975719-ec6807f9-3937-463e-a340-57d9298c3809.png">
+<img src="https://user-images.githubusercontent.com/70637865/186012577-46a8f693-324a-40b9-b094-a8d7e1978804.png">
 <h2>How to use</h2>
 <ul>
 <li>Clone the repository with git clone</li>
