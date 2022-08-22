@@ -6,7 +6,8 @@
 <li>Clone the repository with git clone</li>
 <li>Copy .env.example file to .env and edit database credentials there</li>
 <li>Run composer install</li>
-<li>Run php artisan:migrate</li>
+<li>Run php artisan migrate</li>
 <li>Upload the database to phpmyadmin by importing it which is in the main project named as database.sql</li>
 <li>Run php artisan key:generate</li>
+<li>Run php artisan serve</li>
 </ul>  
